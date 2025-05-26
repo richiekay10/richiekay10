@@ -1,7 +1,7 @@
 🧑🏽‍💻 Full Stack Dev | 🎨 UI/UX & Graphic Designer
 I code stuff 💻, design pretty things ✨, and love building cool experiences 🚀. Open to gigs, collabs, internships & new adventures 🌍.
 
-🔗 Portfolio: https://portfolioforrichie.netlify.app/
+🔗 Portfolio: https://portfolioforrichiekay.netlify.app/
 
 <!--
 **richiekay10/richiekay10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
